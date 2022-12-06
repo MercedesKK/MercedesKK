@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MercedesKK
 - 💞️  I’m interested in 吃喝玩乐
-- 🌱 I’m currently learning C/C++/html/css/js
 - 📫 How to reach me : 2455650395@qq.com                  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercedesKK&count_private=true&show_icons=true&theme=onedark)
 
 <!---
 MercedesKK/MercedesKK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
