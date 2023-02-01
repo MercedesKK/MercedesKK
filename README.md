@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @MercedesKK
-- 💞️  I’m interested in 吃喝玩乐
 - 📫 How to reach me : 2455650395@qq.com                  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercedesKK&count_private=true&show_icons=true&theme=onedark)
